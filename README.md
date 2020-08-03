@@ -1,6 +1,6 @@
 # Wine_Quality_Analysis
 Wine quality Analysis is done to improve the quality of the wine produced by various companies
-by analysisng different factors which affects the quality of the wine.
+by analysing different factors which affects the quality of the wine.
 Dataset: Wine quality dataset(UCI Machine Learning Repository)
 Input Variables:
     1.fixed acidity
